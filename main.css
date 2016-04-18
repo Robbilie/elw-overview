@@ -1,0 +1,24 @@
+
+#clientlist span {
+	padding: 6px;
+    line-height: 20px;
+    font-size: 20px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+#clientlist img {
+	margin-left: -32px;
+}
+
+.tab > div > img {
+	display: inline-block;
+	float: left;
+}
+
+.tab > div > span {
+    display: inline-block;
+    vertical-align: top;
+    line-height: 20px;
+    margin-left: 2px;
+}

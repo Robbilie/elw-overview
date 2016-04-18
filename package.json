@@ -1,0 +1,12 @@
+{
+  "title":        "EOW Settings",
+  "description":  "Settings for EOW",
+  "version":      "0.1.034",
+  "icon":         "blank.png",
+  "js":           "main.js",
+  "css":          "main.css",
+  "templates":    "templates.html",
+  "author":       "Vincent Eneticum / Robert Schuh",
+  "license":      "",
+  "website":      ""
+}
